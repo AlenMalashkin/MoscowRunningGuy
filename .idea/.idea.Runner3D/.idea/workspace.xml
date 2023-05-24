@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e57a570-5c01-4fc7-ad96-a56021f5b9d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemState.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Runner3D/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runner3D/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Runner3D/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runner3D/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Runner3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runner3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Barriers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Barriers/Barier.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Barriers/Barier.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera/CameraFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Camera/CameraFollow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/PlayerCollision.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/PlayerCollision.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadFactory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadPrefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadPrefabs/Road 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadPrefabs/Road 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadPrefabs/Road.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Road/RoadPrefabs/Road.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/LosePanel/LosePanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/LosePanel/LosePanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Boosters/Indicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Metagameplay/Shop/ShopWIndow/ShopWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Metagameplay/Bank/DisplayMoneyCount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Boosters/BoostIndicators.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Metagameplay/Bank/Bank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/LosePanel/LosePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/ChangeSceneButton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Camera/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Road/RoadFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Barriers/Barier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Input/MobileInput/SwipeDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Input/MobileInput/MobileInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Input/SwipeInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Metagameplay/Bank/DisplayMoneyCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Metagameplay/Bank/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemState.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/ChangeSceneButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Metagameplay/Shop/ShopWIndow/ShopWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Installers/GameInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Camera/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Road/RoadFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Input/PlayerMovementInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Player/BoostType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Collectabilities/Boost.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Collectabilities/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Player/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Player/PlayerBoosts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Score/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gmaeplay/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/LosePanel/LosePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Installers/GameInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Boosters/BoostIndicators.cs" />
+        <option value="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Boosters/Indicator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Score/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q07eJMN3bltAjKUe8QqoIAIbfO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e57a570-5c01-4fc7-ad96-a56021f5b9d3" name="Default Changelist" comment="" />
+      <created>1684478766676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684478766676</updated>
+      <workItem from="1684478783869" duration="9899000" />
+      <workItem from="1684509166562" duration="3138000" />
+      <workItem from="1684602817580" duration="6317000" />
+      <workItem from="1684652699134" duration="17107000" />
+      <workItem from="1684737438700" duration="12258000" />
+      <workItem from="1684860502312" duration="6256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1684870319485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1684870319485" />
+  </component>
+</project>
