@@ -1,17 +1,16 @@
-using System.Collections;
 using UnityEngine;
 using VavilichevGD.Utils.Timing;
 using Zenject;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private PlayerAnimations playerAnimations;
     [SerializeField] private CharacterController controller;
     [SerializeField] private PlayerBoosts playerBoosts;
     [SerializeField] private float timeToSpeedUp;
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpStrength;
     [SerializeField] private float gravity = -9.81f;
-    [SerializeField] private float slideDuration = 1;
     [SerializeField] private float step;
     [SerializeField] private Indicator boostIndicatorPrefab;
     [SerializeField] private Player player;
@@ -37,6 +36,8 @@ public class PlayerMovement : MonoBehaviour
         _speedUpTimer.Start(timeToSpeedUp);
         
         _boostTimer = new SyncedTimer(TimerType.UpdateTick);
+        
+        playerAnimations.PlayRunAnimation();
     }
 
     private void OnEnable()
@@ -71,7 +72,9 @@ public class PlayerMovement : MonoBehaviour
 
     public void StartSlide()
     {
-        StartCoroutine(Slide());
+        playerAnimations.PlaySlideAnimation();
+        controller.center = new Vector3(0, -0.5f, 0);
+        controller.height = 1;
     }
 
     public void MoveRight()
@@ -88,8 +91,22 @@ public class PlayerMovement : MonoBehaviour
 
     public void Jump()
     {
+        playerAnimations.PlayJumpAnimation();
+        
         if (controller.isGrounded)
             _moveDirection.y = jumpStrength;
+    }
+
+    private void EndSlide()
+    {
+        controller.center = new Vector3(0, 0, 0);
+        controller.height = 2;
+        playerAnimations.PlayRunAnimation();
+    }
+
+    private void EndJump()
+    {
+        playerAnimations.PlayRunAnimation();
     }
 
     private void Move()
@@ -116,17 +133,6 @@ public class PlayerMovement : MonoBehaviour
             moveSpeed += 0.2f;
         
         _speedUpTimer.Start(timeToSpeedUp);
-    }
-
-    private IEnumerator Slide()
-    {
-        controller.center = new Vector3(0, -0.5f, 0);
-        controller.height = 1;
-        
-        yield return new WaitForSeconds(slideDuration);
-        
-        controller.center = new Vector3(0, 0, 0);
-        controller.height = 2;
     }
 
     private void CollectBoost(BoostType type)

@@ -1,12 +1,24 @@
 fileFormatVersion: 2
-guid: bcbda5ba1ab5c3944b9de128c4a9ca79
+guid: 425c14f11b7520848b0d834922880435
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable:
+  internalIDToNameTable: []
+  externalObjects:
   - first:
-      74: -203655887218126122
-    second: mixamo.com
-  externalObjects: {}
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krai trianon
+    second: {fileID: 2100000, guid: 1eaebf41d61d1a948b9cd54cfabee5db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: peremychka trianon
+    second: {fileID: 2100000, guid: 7ad2c563ecaaae740a8476758bcbac0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tsentrovka trianon
+    second: {fileID: 2100000, guid: 441b9ff18d201be4798e40a38af9a4cb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -38,7 +50,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -91,7 +103,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.001
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

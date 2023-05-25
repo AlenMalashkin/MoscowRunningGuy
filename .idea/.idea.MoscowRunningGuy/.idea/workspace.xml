@@ -1,15 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9bd586-9f43-475a-821c-dfe67d9778aa" name="Default Changelist" comment="" />
+    <list default="true" id="fb9bd586-9f43-475a-821c-dfe67d9778aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Dive Roll.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Dive Roll.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Running Jump.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Running Jump.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerModels/Ch17_nonPBR.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerModels/Ch17_nonPBR.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character (2).fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character (2).fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Another One.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Another One.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Another.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Another.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Default.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Default.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Player/PlayerAnimations.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerAnimations.cs" />
         <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" />
       </list>
     </option>
@@ -54,11 +100,23 @@
       <option name="presentableId" value="Default" />
       <updated>1684943354267</updated>
       <workItem from="1684943358589" duration="813000" />
+      <workItem from="1685017660523" duration="2843000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
