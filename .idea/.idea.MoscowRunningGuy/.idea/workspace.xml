@@ -21,25 +21,24 @@
   <component name="ChangeListManager">
     <list default="true" id="fb9bd586-9f43-475a-821c-dfe67d9778aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoscowRunningGuy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Installers/GameInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Installers/GameInstaller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Player/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road 1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Dive Roll.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Dive Roll.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Fast Run.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Running Jump.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerAnimations/Running Jump.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerModels/Ch17_nonPBR.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerModels/Ch17_nonPBR.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character (2).fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character (2).fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerModels/character.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Another One.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Another One.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Another.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Another.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Default.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Default.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Road/RoadPrefabs/Road.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Score/Score.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Score/Score.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Metagameplay/Bank/Bank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Metagameplay/Bank/Bank.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemPrefab/Item 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemPrefab/Item 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemPrefab/Item 2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemPrefab/Item 2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemPrefab/Item.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Item/ItemPrefab/Item.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Shop.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Metagameplay/Shop/Shop.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/UI/Indicator.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/UI/Indicator.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/UI/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,16 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerAnimations.cs" />
         <option value="$PROJECT_DIR$/Assets/Gameplay/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Score/Recors.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/LosePanel/LosePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Music/MusicPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Installers/GameInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/DB/Db.cs" />
+        <option value="$PROJECT_DIR$/Assets/Metagameplay/Bank/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Score/Record.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Score/Score.cs" />
       </list>
     </option>
   </component>
@@ -101,6 +110,11 @@
       <updated>1684943354267</updated>
       <workItem from="1684943358589" duration="813000" />
       <workItem from="1685017660523" duration="2843000" />
+      <workItem from="1685290975748" duration="2231000" />
+      <workItem from="1685302507117" duration="1336000" />
+      <workItem from="1685983573289" duration="2056000" />
+      <workItem from="1686059840761" duration="1366000" />
+      <workItem from="1686073581733" duration="3537000" />
     </task>
     <servers />
   </component>
@@ -116,8 +130,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1686073662659">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.912@0.0.1536.912" timestamp="1686073662659" />
+    <state x="431" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1686076894090">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="431" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1536.912@0.0.1536.912" timestamp="1686076894090" />
   </component>
 </project>

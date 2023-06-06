@@ -37,10 +37,14 @@
             <e p="RoadFactory.cs" t="Include" />
           </e>
           <e p="Score" t="Include">
+            <e p="Record.cs" t="Include" />
             <e p="Score.cs" t="Include" />
           </e>
         </e>
         <e p="Infrastructure" t="Include">
+          <e p="DB" t="Include">
+            <e p="Db.cs" t="Include" />
+          </e>
           <e p="Installers" t="Include">
             <e p="InfrastructureInstaller.cs" t="Include" />
           </e>
@@ -59,6 +63,9 @@
               <e p="ShopWindow.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Music" t="Include">
+          <e p="MusicPlayer.cs" t="Include" />
         </e>
         <e p="Plugins" t="Include">
           <e p="VavilichevGD" t="Include">

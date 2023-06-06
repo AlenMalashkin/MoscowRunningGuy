@@ -1,4 +1,5 @@
 using System;
+using System.Data;
 using UnityEngine;
 
 public class Bank
@@ -9,13 +10,15 @@ public class Bank
 
 	public Bank()
 	{
-		Money = PlayerPrefs.GetInt("Money", 0);
+		string money = Db.ExecuteQueryWithAnswer("SELECT Money FROM Player WHERE Id = 1");
+
+		Money = int.Parse(money);
 	}
 
 	public void GetMoney(int amount)
 	{
 		Money += amount;
-		PlayerPrefs.SetInt("Money", Money);
+		Db.ExecuteQueryWithoutAnswer($"UPDATE Player SET Money = {Money} WHERE Id = 1");
 		OnMoneyCountChangedEvent?.Invoke(Money);
 	}
 
@@ -24,7 +27,7 @@ public class Bank
 		if (Money >= amount)
 		{
 			Money -= amount;
-			PlayerPrefs.SetInt("Money", Money);
+			Db.ExecuteQueryWithoutAnswer($"UPDATE Player SET Money = {Money} WHERE Id = 1");
 			OnMoneyCountChangedEvent?.Invoke(Money);
 			return true;
 		}

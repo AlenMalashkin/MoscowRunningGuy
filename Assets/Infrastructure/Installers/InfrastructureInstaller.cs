@@ -1,4 +1,3 @@
-using VavilichevGD.Utils.Timing;
 using Zenject;
 
 public class InfrastructureInstaller : MonoInstaller

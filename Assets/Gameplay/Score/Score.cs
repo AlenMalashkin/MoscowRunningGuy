@@ -7,13 +7,13 @@ public class Score : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private Indicator boostIndicatorPrefab;
-    
+
     private Indicator _boostIndicator;
     private Player _player;
     private PlayerBoosts _playerBoosts;
     private SyncedTimer _timer;
     private BoostIndicators _boostIndicators;
-    
+
     private int _score;
 
     private int _multiplier = 1;
@@ -87,6 +87,9 @@ public class Score : MonoBehaviour
 
     private void PlayerDied()
     {
+        if (int.Parse(Db.ExecuteQueryWithAnswer("SELECT Record FROM Player WHERE Id = 1")) < _score)
+            Db.ExecuteQueryWithoutAnswer($"UPDATE Player SET Record = {_score} WHERE Id = 1");
+        
         _timer.Stop();
         _multiplier = 0;
     }

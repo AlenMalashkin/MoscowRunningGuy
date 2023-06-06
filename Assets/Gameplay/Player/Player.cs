@@ -11,7 +11,8 @@ public class Player : MonoBehaviour
     [SerializeField] private PlayerCollision playerCollision;
     [SerializeField] private PlayerBoosts playerBoosts;
     [SerializeField] private Indicator boostIndicatorPrefab;
-    
+
+    private MusicPlayer _musicPlayer;
     private Indicator _boostIndicator;
     private LosePanel _losePanel;
     private Bank _bank;
@@ -20,8 +21,9 @@ public class Player : MonoBehaviour
     private bool _immortal;
 
     [Inject]
-    private void Construct(LosePanel losePanel, Bank bank, BoostIndicators boostIndicators)
+    private void Construct(LosePanel losePanel, Bank bank, BoostIndicators boostIndicators, MusicPlayer musicPlayer)
     {
+        _musicPlayer = musicPlayer;
         _losePanel = losePanel;
         _bank = bank;
         _boostIndicators = boostIndicators;
@@ -30,6 +32,7 @@ public class Player : MonoBehaviour
     private void Awake()
     {
         _boostTimer = new SyncedTimer(TimerType.UpdateTick);
+        _musicPlayer.PlayMusic(Resources.Load<AudioClip>("Music/OST"));
     }
 
     private void OnEnable()
@@ -67,6 +70,7 @@ public class Player : MonoBehaviour
 
     private void Die()
     {
+        _musicPlayer.StopMusic();
         _losePanel.EnablePanel();
         _boostTimer.Stop();
         OnPlayerDiedEvent?.Invoke();

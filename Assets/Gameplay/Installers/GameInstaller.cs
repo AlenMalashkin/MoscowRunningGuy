@@ -6,11 +6,13 @@ public class GameInstaller : MonoInstaller
     [SerializeField] private Transform playerSpawnPosition;
     [SerializeField] private LosePanel losePanel;
     [SerializeField] private BoostIndicators boostIndicators;
+    [SerializeField] private MusicPlayer musicPlayer;
 
     public override void InstallBindings()
     {
-        BindLosePanel();
         BindBoostIndicators();
+        BindLosePanel();
+        BindMusicPlayer();
         BindPlayer();
     }
 
@@ -40,6 +42,14 @@ public class GameInstaller : MonoInstaller
         Container
             .Bind<BoostIndicators>()
             .FromInstance(boostIndicators)
+            .AsSingle();
+    }
+
+    private void BindMusicPlayer()
+    {
+        Container
+            .Bind<MusicPlayer>()
+            .FromInstance(musicPlayer)
             .AsSingle();
     }
 }
